@@ -19,6 +19,9 @@ Here are some resources to learn HTML:
 ### Github
 - [Learn github](https://lab.github.com/)(18 Jun 2022)
 
+### IDEA
+- [Learn VSCode](https://code.visualstudio.com/)(18 Jun 2022)
+
 ### CSS
 Here are some resources to learn CSS:
 
@@ -27,8 +30,6 @@ Here are some resources to learn CSS:
 
 #### Assignment
 - [Build similar web page](https://websitesetup.org/website-coding-html-css/) (23 Jun 2022)
-
-
 
 ### Javascript
 Here are some resources to learn Javascript:

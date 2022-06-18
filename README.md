@@ -30,6 +30,7 @@ Here are some resources to learn CSS:
 
 #### Assignment
 - [Build similar web page](https://websitesetup.org/website-coding-html-css/) (23 Jun 2022)
+- [Example](https://codepen.io/tiffachoo/pen/wvyXRzL) (23 Jun 2022)
 
 ### Javascript
 Here are some resources to learn Javascript:

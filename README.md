@@ -14,6 +14,8 @@ Here are some resources to learn HTML:
 
 #### Assignment
 - [Build similar web page](http://www.pgrocer.net/Cis44/HTML1X03.html) (18 Jun 2022)
+- [Build similar web page](http://www.pgrocer.net/Cis44/HTML1X03.html) (18 Jun 2022)
+- [Build similar web page](http://www.pgrocer.net/Cis44/HTML1X03.html) (18 Jun 2022)
 
 
 ### Github
@@ -22,10 +24,10 @@ Here are some resources to learn HTML:
 ### IDEA
 - [Learn VSCode](https://code.visualstudio.com/)(18 Jun 2022)
 
-### /css
+### CSS
 Here are some resources to learn ./css:
 
-- [./css tutorial - w3schools](https://www.w3schools.com/css/default.asp) (23 Jun 2022)
+- [css tutorial - w3schools](https://www.w3schools.com/css/default.asp) (23 Jun 2022)
 
 
 #### Assignment

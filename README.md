@@ -22,14 +22,14 @@ Here are some resources to learn HTML:
 ### IDEA
 - [Learn VSCode](https://code.visualstudio.com/)(18 Jun 2022)
 
-### ./css
+### /css
 Here are some resources to learn ./css:
 
-- [./css tutorial - w3schools](https://www.w3schools.com/./css/default.asp) (23 Jun 2022)
+- [./css tutorial - w3schools](https://www.w3schools.com/css/default.asp) (23 Jun 2022)
 
 
 #### Assignment
-- [Build similar web page](https://websitesetup.org/website-coding-html-./css/) (23 Jun 2022)
+- [Build similar web page](https://websitesetup.org/website-coding-html-css/) (23 Jun 2022)
 - [Example](https://codepen.io/tiffachoo/pen/wvyXRzL) (23 Jun 2022)
 
 ### Javascript

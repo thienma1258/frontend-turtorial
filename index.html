@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Frontend tutorial</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+    <style>
+        body {
+            min-height: 100vh;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 1rem;
+            border-left: 1px solid #333;
+            border-right: 1px solid #333;
+        }
+        img{
+        width: 100%;
+        }
+    </style>
+</head>
+<body>
+<div id="content"
+>
+
+</div>
+
+
+<script>
+    const converter = new showdown.Converter();
+    let client = new XMLHttpRequest();
+    client.open('GET', '/README.md');
+    client.onreadystatechange = function() {
+        let html = converter.makeHtml(client.responseText);
+        document.getElementById("content").innerHTML=html;
+    }
+    client.send();
+</script>
+</body>
+</html>

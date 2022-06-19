@@ -1,0 +1,22 @@
+{
+  "name": "frontend-turtorial",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinhpn96/frontend-turtorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinhpn96/frontend-turtorial/issues"
+  },
+  "homepage": "https://github.com/trinhpn96/frontend-turtorial#readme",
+  "dependencies": {
+    "marked": "^4.0.17"
+  }
+}

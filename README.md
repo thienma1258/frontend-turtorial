@@ -28,22 +28,11 @@ Here are some resources to learn HTML:
 Here are some resources to learn ./css:
 
 - [css tutorial - w3schools](https://www.w3schools.com/css/default.asp) (23 Jun 2022)
-
-
-#### Assignment
-- [Build similar web page](https://websitesetup.org/website-coding-html-css/) (23 Jun 2022)
-- [Example](https://codepen.io/tiffachoo/pen/wvyXRzL) (23 Jun 2022)
-
-### Javascript
-Here are some resources to learn Javascript:
-
-- [Javascript tutorial - w3schools](https://www.w3schools.com/js/default.asp) (9 July 2022)
-- [Course](https://www.youtube.com/watch?v=jS4aFq5-91M)
-- [Advanced](https://javascript.info/)
+- [Simple example](https://websitesetup.org/website-coding-html-css/)
 
 #### Assignment
-- [Build similar web page](https://y78.fr/5/) (15 July 2022)
-
+- ![homepage](example.png)
+- [build similar website with html and css](https://thankfulregistry.com/)
 
 ### Javascript
 Here are some resources to learn Javascript:
